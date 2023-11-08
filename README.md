@@ -6,10 +6,6 @@ Meu nome é luana varela
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo:luh.varella55
+### Você pode entrar em contato comigo:luh.varella.55
 
-luana.varela.oliveira
-
-@marcelopaludetto
-
-![descrição do GIF](link GIF do Tenor)
+luana.varela.oliveira@escola.pr.gov.br
